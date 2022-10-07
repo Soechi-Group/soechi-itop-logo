@@ -2,5 +2,6 @@
 <itop_design xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <branding>
     <main_logo _delta="define">sample-itop-logos/custom-logo.png</main_logo>
+    <main_logo_compact _delta="define">sample-itop-logos/custom-logo-compact.png</main_logo_compact>
   </branding>
 </itop_design>
