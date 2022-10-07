@@ -3,16 +3,4 @@
   <branding>
     <main_logo _delta="define">sample-itop-logos/custom-logo.png</main_logo>
   </branding>
-  <constants>
-  </constants>
-  <classes>
-  </classes>
-  <menus>
-  </menus>
-  <user_rights>
-    <groups>
-    </groups>
-    <profiles>
-    </profiles>
-  </user_rights>
 </itop_design>
