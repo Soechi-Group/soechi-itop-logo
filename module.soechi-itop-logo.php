@@ -25,11 +25,11 @@
 
 SetupWebPage::AddModule(
 	__FILE__, // Path to the current file, all other file names are relative to the directory containing this file
-	'sample-itop-logos/0.1.0',
+	'soechi-itop-logo/0.1.0',
 	array(
 		// Identification
 		//
-		'label' => 'Custom iTop logos',
+		'label' => 'SOECHI iTop logo',
 		'category' => 'application',
 
 		// Setup
